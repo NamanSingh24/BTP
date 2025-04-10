@@ -1,0 +1,3 @@
+"Timestamp","X.HR.","X.PULSE.","X.NBP.SYS.","X.NBP.DIAS.","X.NBP.MEAN.","X.RESP.","SI_by_NIBP","final_abp_sys","final_abp_dias","final_abp_mean","final_nbp_sys","final_nbp_dias","final_nbp_mean","SI_by_abp","SI_by_nibp","X.ABP.SYS.","X.ABP.DIAS.","X.ABP.MEAN.","predicted_abp"
+2147-09-18 19:29:00,NA,47.714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2147-09-18 19:30:00,132.188,124.382,214,109,132,34.041,0.6177009,172.978362438172,NA,NA,214,109,132,0.764188064546213,NA,NA,NA,NA,172.978362438172
